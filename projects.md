@@ -1,7 +1,3 @@
----
-title: Projects Page
----
-
 
 <nav class="main-nav">
   <ul>
