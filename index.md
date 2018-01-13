@@ -1,3 +1,9 @@
+---
+layout: default
+title: Projects Page
+---
+
+
 <nav class="main-nav">
   <ul>
     <li><a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
