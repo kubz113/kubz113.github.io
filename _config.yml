@@ -1,2 +1,2 @@
 theme: jekyll-theme-time-machine
-baseurl: "/projects.md"
+BASE_PATH : https://kubz113.github.io
