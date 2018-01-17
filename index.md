@@ -14,3 +14,20 @@ I have wrote a toxic comment classifier for a competition posted on [Kaggle](kag
 I have been working through the 25 challenges for the 2017 Advent of Code. The solutions are written in Python 3.6 and large input files are format as plain .txt files. 
 
 [AoC2017](https://kubz113.github.io/adventOfCode2017/)
+
+
+## About Me
+
+#### Education
+
+Northwestern University: Bachelor of Science in Computer Science, Minor in Economics
+
+#### Interests
+
+Machine Learning, Application Development, Artificial Intelligence, Data Analytics 
+
+#### Hobbies
+
+Ultimate Frisbee, Coding, Video Games, Running
+
+
