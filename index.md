@@ -8,6 +8,7 @@ These are the personal projects that I have been working on.
 
 ### Toxic Comment Classifier
 I have wrote a toxic comment classifier for a competition posted on [Kaggle](kaggle.com). This classifier uses Wikipedia comments that are categorized into any of the following categories: toxic, severe toxic, insult, obscene, threat or identity hate. The classifier uses this data to train itself and produces probabilities that a new comment falls into each of the listed categories.  
+
 [Toxic Comment Classifier](https://kubz113.github.io/Toxic-Comment-Classification/)
 
 ### Advent of Code 2017
