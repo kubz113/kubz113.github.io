@@ -19,6 +19,11 @@ I have been working through the 25 challenges for the 2017 Advent of Code. The s
 
 ## About Me
 
+<a href = "linkedin.com">
+  <img class = "socialMediaLogo" src = "/200px-CIS-A2K_Linkedin_Icon_(Black).svg.png"/>
+</a>
+
+
 #### Education
 
 Northwestern University: Bachelor of Science in Computer Science, Minor in Economics
