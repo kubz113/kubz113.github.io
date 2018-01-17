@@ -19,7 +19,7 @@ I have been working through the 25 challenges for the 2017 Advent of Code. The s
 
 ## About Me
 
-<a href = "linkedin.com">
+<a href = "www.linkedin.com/in/jakub-jezusek">
   <img class = "socialMediaLogo" src = "/200px-CIS-A2K_Linkedin_Icon_(Black).svg.png"/>
 </a>
 
