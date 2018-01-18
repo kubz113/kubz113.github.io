@@ -22,7 +22,9 @@ I have been working through the 25 challenges for the 2017 Advent of Code. The s
 <a href = "https://www.linkedin.com/in/jakub-jezusek">
   <img id="linkedIn" src="/200px-CIS-A2K_Linkedin_Icon_(Black).svg.png"/>
 </a>
-
+<a href = "https://github.com/kubz113">
+  <img id="linkedIn" src="/GitHub-Mark-64px.png"/>
+</a>
 
 #### Education
 
