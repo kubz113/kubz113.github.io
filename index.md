@@ -1,6 +1,6 @@
 # Welcome
 
-This webpage is meant to display my progress as a developer. I want to showcase projects and experiments that I complete outside of my professional work. Currently the list is small, but hopefully in time, it will expand.
+This webpage is meant to display my progress as a developer. I want to showcase projects and experiments that I complete outside of my professional work. Currently the list is small, but hopefully, it will expand in the future.
 
 ## Projects List
 These are the personal projects that I have been working on.
