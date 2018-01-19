@@ -23,7 +23,7 @@ I have been working through the 25 challenges for the 2017 Advent of Code. The s
     <img src ="/profilePic.jpg" height=338px width=270px>
   </a>
   <br>
-  <a href = "https://www.linkedin.com/in/jakub-jezusek">
+  <a href = "https://www.linkedin.com/in/jakub-jezusek"/>
     <img class="circleSocialMedia" src="/200px-CIS-A2K_Linkedin_Icon_(Black).svg.png"/>
   </a>
   <a href = "https://github.com/kubz113">
