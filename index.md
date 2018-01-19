@@ -20,7 +20,7 @@ I have been working through the 25 challenges for the 2017 Advent of Code. The s
 ## About Me
 <p id="picFrame">
   <a>
-    <img src ="/profilePic.jpg" height=338px width=270px/>
+    <img src ="/profilePic.jpg" height="338px" width="270px"/>
   </a>
   <br>
   <a href = "https://www.linkedin.com/in/jakub-jezusek">
