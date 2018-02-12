@@ -13,7 +13,7 @@ I have wrote a toxic comment classifier for a competition posted on [Kaggle](kag
 ### Slime Run
 A side scrolling Android game created in Unity. I am using it to practice mobile development, game development and version releasing. 
 
-[Slime Run](https://github.com/kubz113/SlimeRun)
+[Slime Run](https://kubz113.github.io/SlimeRun/)
 
 ### Advent of Code 2017
 I have been working through the 25 challenges for the 2017 Advent of Code. The solutions are written in Python 3.6 and large input files are format as plain .txt files. 
