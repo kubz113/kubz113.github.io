@@ -33,6 +33,9 @@ I have been working through the 25 challenges for the 2017 Advent of Code. The s
   <a href = "https://github.com/kubz113">
     <img class="circleSocialMedia" src="/GitHub-Mark-64px.png"/>
   </a>
+    <a href = "https://www.hackerrank.com/jakub_jezusek">
+    <img class="circleSocialMedia" src="/assets/pics/hackerrank_icon.png"/>
+  </a>
 </p>
 
 #### Education
