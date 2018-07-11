@@ -10,6 +10,11 @@ I have wrote a toxic comment classifier for a competition posted on [Kaggle](kag
 
 [Toxic Comment Classifier Repo](https://kubz113.github.io/Toxic-Comment-Classification/)
 
+### Test Driven Development Katas
+Coding Problems written following test driven development practices. This means that before writing or refactoring code, I wrote a failing test case and made changes to the code to make it pass.
+
+[TDD Katas](https://kubz113.github.io/TDDKatas/)
+
 ### Slime Run
 A side scrolling Android game created in Unity. I am using it to practice mobile development, game development and version releasing. 
 
